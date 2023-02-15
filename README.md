@@ -1,4 +1,5 @@
 ## Presentation
+##  <a href="https://1drv.ms/b/s!AjjVIAVv01kaoiEWaIzgJzTHe95m?e=nGvZ93">Visualize meu currículo</a>
 ### Hi, my name is Itamar 👋
 
 - 🤔 Finalizando o curso de Engenharia de Software INATEL
@@ -41,7 +42,5 @@
 ```bash
 itamar_augusto@ges.inatel.br
 ```
-
-##  <a href="https://1drv.ms/b/s!AjjVIAVv01kaoiEWaIzgJzTHe95m?e=nGvZ93">Visualize meu currículo</a>
  
 </div>
