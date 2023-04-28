@@ -1,6 +1,10 @@
 ## Presentation
 ##  <a href="https://1drv.ms/b/s!AjjVIAVv01kaoiMRgNazLuC1b2bA?e=1OCjKc">Visualize meu currículo</a>
-### Hi, my name is Itamar 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Itamar+Ribeiro....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 - 🤔 Finalizando o curso de Engenharia de Software INATEL
 - ⚡ Apaixonado por programação mobile
