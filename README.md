@@ -2,7 +2,7 @@
 ##  <a href="https://1drv.ms/b/s!AjjVIAVv01kaoiMRgNazLuC1b2bA?e=1OCjKc">Visualize meu currículo</a>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Itamar+Ribeiro....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Itamar+Ribeiro....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
