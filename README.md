@@ -12,10 +12,6 @@
 
 # 
 
- <div>
-  <a href="https://github.com/IASR19">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IASR19&layout=compact&langs_count=16&theme=dark"/>
-</div>
   
   ## Interests
   <div style="display: inline_block"><br>
