@@ -16,7 +16,6 @@
 
 <div style="display: inline_block">
 
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iasr19&show_icons=true&theme=github_dark&line_height=27&hide_rank=true&count_private=true" alt="Itamar Ribeiro's github stats"/>
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iasr19&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=10" alt="Itamar Ribeiro's github stats"/>
 
 #
