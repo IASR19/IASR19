@@ -2,6 +2,7 @@
 
 <a href="https://1drv.ms/b/s!AjjVIAVv01kaolP1UpYLXZjTv9i1?e=ncOOGE">View my resume (EN)</a>
 <h1 align="center">
+#
 <a href="https://1drv.ms/b/s!AjjVIAVv01kaolHevS4xxtuH3Te1?e=a7WpFw">Visualize meu currículo (PT) </a>
 <h1 align="center">
 
