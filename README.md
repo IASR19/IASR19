@@ -1,6 +1,9 @@
 ## Presentation
-##  <a href="https://1drv.ms/b/s!AjjVIAVv01kaoiMRgNazLuC1b2bA?e=1OCjKc">Visualize meu currículo</a>
+##  <a href="https://1drv.ms/b/s!AjjVIAVv01kaolP1UpYLXZjTv9i1?e=ncOOGE">View my resume (EN)</a>
 <h1 align="center">
+##  <a href="https://1drv.ms/b/s!AjjVIAVv01kaolHevS4xxtuH3Te1?e=a7WpFw">Visualize meu currículo (PT) </a>
+<h1 align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Itamar+Ribeiro....;Nice+to+meet+you!&center=true&size=30">
   </a>
