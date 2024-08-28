@@ -11,7 +11,6 @@
 
 - 🤔 Finalizando o curso de Engenharia de Software INATEL
 - ⚡ Apaixonado por programação mobile
-- 💬 Atualmente estudando sobre Vue.js
 
 # 
 
