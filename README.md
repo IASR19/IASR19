@@ -1,7 +1,7 @@
 ## Presentation
 
-### > <a href="https://1drv.ms/b/s!AjjVIAVv01kapEN36NkF7GCchudC?e=I30b44">View my resume (EN)</a>
-### > <a href="https://1drv.ms/b/s!AjjVIAVv01kapELhsALS54Kn8gXE?e=CMiMsh">Visualize meu currículo (PT) </a>
+### > <a href="https://1drv.ms/b/s!AjjVIAVv01ka0FSRFTY4fdyapX2u?e=4CJf88">View my resume (EN)</a>
+### > <a href="https://1drv.ms/b/s!AjjVIAVv01ka0FP73G0B_C6usVLK?e=UkGfdR">Visualize meu currículo (PT) </a>
 #
 <h1 align="center">
   <a href="https://git.io/typing-svg">
