@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-- 🤔 Finalizando o curso de Engenharia de Software INATEL
+- 🤔 Engenheiro de Software
 - ⚡ Apaixonado por programação mobile
 
 # 
