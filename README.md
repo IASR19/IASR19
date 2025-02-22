@@ -9,8 +9,8 @@
   </a>
 </h1>
 
-- 🤔 Engenheiro de Software
-- ⚡ Apaixonado por programação mobile
+- Engenheiro de Software
+- Apaixonado por programação mobile
 
 # 
 
