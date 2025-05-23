@@ -12,8 +12,6 @@
 
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=IASR19&color=006bed)
-
 <div style="display: inline_block">
 
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iasr19&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=10" alt="Itamar Ribeiro's github stats"/>
