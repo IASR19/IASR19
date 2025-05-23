@@ -15,6 +15,10 @@
 <div style="display: inline_block">
 
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iasr19&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=10" alt="Itamar Ribeiro's github stats"/>
+<a href="https://github.com/IASR19">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IASR19&theme=flatremix&show_icons=true" />
+</a>
+
 
 #
   
