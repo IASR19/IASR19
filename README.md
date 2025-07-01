@@ -13,8 +13,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasr19&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=10" alt="Itamar Ribeiro's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=iasr19&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasr19&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=10" alt="Top Langs" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=iasr19&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iasr19&theme=darkhub&row=1&margin-w=10&margin-h=15" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iasr19&theme=github-compact" />
 </p>
+
 
 ---
 
