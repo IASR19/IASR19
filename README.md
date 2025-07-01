@@ -21,8 +21,6 @@
   <img src="https://streak-stats.demolab.com?user=iasr19&theme=github-dark&hide_border=true" />
   
   <img src="https://github-profile-trophy.vercel.app/?username=iasr19&theme=darkhub&title=MultiLanguage,Commits,Repositories,Followers,Experience&margin-w=10&margin-h=15" />
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iasr19&theme=github-compact" />
 
 </div>
 
