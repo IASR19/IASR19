@@ -14,10 +14,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=iasr19&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasr19&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=10" />
-  <img src="https://streak-stats.demolab.com?user=iasr19&theme=github-dark&hide_border=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=iasr19&theme=darkhub&title=MultiLanguage,Commits,Repositories,Followers,Experience&margin-w=10&margin-h=15" />
 
 </div>
