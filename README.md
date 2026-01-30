@@ -10,16 +10,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasr19&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=10" />
-
-</div>
-
----
-
 ## 💡 Tech Interests
 
 <p align="center">
