@@ -34,7 +34,7 @@
 ## 📫 Contacts
 
 <p align="center">
-  <a href="https://instagram.com/itamar_asr" target="_blank">
+  <a href="https://instagram.com/itamar.asr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/itamarasr/" target="_blank">
