@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Itamar+Ribeiro+%F0%9F%91%8B;Software+Engineer+%7C+Building+real+products;React+%2B+Node%2FNestJS+%2B+PostgreSQL;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Itamar+Ribeiro+%F0%9F%91%8B;Software+Engineer+%7C+Building+real+products;Full-stack+%7C+Cloud+%7C+Data+%7C+Embedded;JavaScript+%2F+TypeScript+%2F+Java+%2F+C%23+%2F+Python;Azure+%2B+SQL+Server+%2B+PostgreSQL+%2B+CI%2FCD" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -23,7 +23,8 @@
 
 - Product-minded engineer who likes turning messy requirements into clean, reliable software.
 - Focused on full-stack delivery with strong backend structure and polished frontend UX.
-- Main stack lately: React, TypeScript, NestJS, PostgreSQL, SQL Server, and modern DX tooling.
+- I work across web, backend, cloud, automation, and data-driven systems.
+- I adapt fast to different stacks and choose technology based on product and business goals.
 - I also enjoy embedded/software-hardware integration projects.
 
 ---
